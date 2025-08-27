@@ -31,7 +31,11 @@ Search Bar: Static search input (not functional without backend).
 🛠 Tech Stack
 
 HTML5 – Page structure
+
+
 CSS3 – Styling and layout
+
+
 JavaScript – Basic interactivity (optional)
 
 
