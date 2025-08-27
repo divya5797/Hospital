@@ -1,4 +1,4 @@
-his is a simple frontend hospital website built using HTML, CSS, and JavaScript.
+This is a simple frontend hospital website built using HTML, CSS, and JavaScript.
 It is designed to display hospital information, available treatments, and appointment booking options.
 No backend or database is included in this version.
 
