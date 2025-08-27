@@ -2,10 +2,7 @@ his is a simple frontend hospital website built using HTML, CSS, and JavaScript.
 It is designed to display hospital information, available treatments, and appointment booking options.
 No backend or database is included in this version.
 
-
----
-
-✨ Features
+ Features
 
 Home Page: Introduction of the hospital.
 
@@ -39,8 +36,5 @@ JavaScript – Basic interactivity (optional)
 
 
 
-live at:-    
+live at:-    https://divya5797.github.io/Hospital/
 
-CSS3 – Styling and layout
-
-JavaScript – Basic interactivity (optional)
